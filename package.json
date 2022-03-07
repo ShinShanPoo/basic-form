@@ -1,0 +1,22 @@
+{
+  "name": "basic-form-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinShanPoo/basic-form-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinShanPoo/basic-form-02/issues"
+  },
+  "homepage": "https://github.com/ShinShanPoo/basic-form-02#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
